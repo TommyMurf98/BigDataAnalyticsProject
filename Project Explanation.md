@@ -1,4 +1,4 @@
-This project analyzes COVID-19 time series data from Indonesia, specifically focusing on the number of active cases, new cases per million, and other related metrics and was a universtiy assignment for the Big Data Analytics module. The code is centered around data cleaning, visualization, and statistical analysis of the pandemic's impact across different locations within Indonesia, particularly focusing on DKI Jakarta.
+This was a university assignment/project for the Big Data Analytics module that analyzes COVID-19 time series data from Indonesia, specifically focusing on the number of active cases, new cases per million, and other related metrics. The code is centered around data cleaning, visualization, and statistical analysis of the pandemic's impact across different locations within Indonesia, particularly focusing on DKI Jakarta.
 
 ### Here's what the code does:
 
